@@ -9,6 +9,7 @@ A Pokédex é uma aplicação web que permite aos usuários buscar informações
 Busca por Pokémon: Permite ao usuário procurar Pokémon pelo nome ou número.
 Exibição de Detalhes: Mostra detalhes como nome, tipo, habilidades e estatísticas básicas do Pokémon.
 Interface Responsiva: Adaptável para diferentes tamanhos de tela para uma melhor experiência em dispositivos móveis e desktops.
+
 📂 Estrutura do Projeto
 O projeto é estruturado da seguinte forma:
 
