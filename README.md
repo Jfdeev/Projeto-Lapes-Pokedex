@@ -26,12 +26,12 @@ OU
 
 1- Clone o Repositorio
 git clone https://github.com/seu-usuario/pokedex.git
-Acesse o diretório do projeto:
 
 2-Acesse a pasta do projeto
 cd pokedex
 
 3-Abra o arquivo index.html em seu navegador:
+
 Você pode simplesmente abrir o arquivo index.html com um navegador web moderno (Google Chrome, Firefox, Safari, etc.) para ver a aplicação em funcionamento.
 
 🛠 Tecnologias Utilizadas
