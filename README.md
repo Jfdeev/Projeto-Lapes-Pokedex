@@ -26,10 +26,12 @@ Entre no link: https://jfdeev.github.io/Projeto-Lapes-Pokedex/
 
 OU
 
-1- Clone o Repositorio
+1- Clone o Repositorio (usando git)
+
 git clone https://github.com/seu-usuario/pokedex.git
 
 2-Acesse a pasta do projeto
+
 cd pokedex
 
 3-Abra o arquivo index.html em seu navegador:
