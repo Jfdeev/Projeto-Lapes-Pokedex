@@ -1,0 +1,88 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	display: flex;
+	min-height: 100vh;
+	align-items: center;
+  justify-content: center;
+}
+
+.container .containerEsquerda {
+  width: 100vw;
+  height: 100vh;
+  background: #2F4F4F;
+}
+
+.container .containerDireita {
+	position: absolute;
+	height: 90vh;
+  width: 90vw;
+  background: #FFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  border-radius: 16px;
+}
+
+.container .Direita h1 {
+	margin-bottom: 2rem;
+}
+
+.container .containerDireita form label input {
+	width: 100%;
+	margin-bottom: 1rem;
+	margin-top: 5px;
+	padding: .75rem;
+	outline: 0;
+	border: 1px solid #CCC;
+	border-radius: 6px;
+}
+
+.container .containerDireita form p {
+	text-align: right;
+	margin: 1rem 0;
+	font-size: 14px;
+}
+
+.container .containerDireita form p a {
+	color: #2F4F4F;
+}
+
+.container .containerDireita form button {
+	width: 100%;
+	margin-top: 1rem;
+	padding: .75rem;
+	background: #2F4F4F;
+	border-radius: 6px;
+	border: 0;
+	color: #FFF;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all 0.3s ease-in-out;
+
+}
+
+.container .containerDireita form button:hover {
+	background: #6B8E23;
+}
+
+@media (min-width: 768px) {
+	.container .containerDireita {
+		position: static;
+		width: 60vw;
+	}
+}
