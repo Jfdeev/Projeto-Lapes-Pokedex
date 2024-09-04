@@ -19,6 +19,7 @@ styles.css: O arquivo CSS que define o estilo e layout da página.
 pokemon.js: O arquivo JavaScript que contém a lógica para interagir com a API e manipular o DOM.
 pokemon-detail.js: O arquivo JavaScript que contém a lógica da pagina de detalhes dos pokemons
 search.js: O arquivo JavaScript que contém a logica de pesquisa de pokemons
+
 🚀 Como Executar o Projeto
 
 Entre no link: https://jfdeev.github.io/Projeto-Lapes-Pokedex/
