@@ -44,5 +44,5 @@ JavaScript: Interatividade e manipulação do DOM. Utilizado para buscar dados d
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
 📬 Contato
-Para qualquer dúvida ou sugestão, você pode entrar em contato através do e-mail: seu-email@example.com
+Para qualquer dúvida ou sugestão, você pode entrar em contato através do e-mail: jfrsoares161205@gmail.com
 
