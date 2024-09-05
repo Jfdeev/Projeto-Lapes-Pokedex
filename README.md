@@ -14,10 +14,15 @@ Interface Responsiva: Adaptável para diferentes tamanhos de tela para uma melho
 O projeto é estruturado da seguinte forma:
 
 index.html: O arquivo principal HTML que define a estrutura da página.
+
 detail.html: O arquivo auxiliar que molda a pagina com as estatisticas de cada pokemon
+
 styles.css: O arquivo CSS que define o estilo e layout da página.
+
 pokemon.js: O arquivo JavaScript que contém a lógica para interagir com a API e manipular o DOM.
+
 pokemon-detail.js: O arquivo JavaScript que contém a lógica da pagina de detalhes dos pokemons
+
 search.js: O arquivo JavaScript que contém a logica de pesquisa de pokemons
 
 🚀 Como Executar o Projeto
